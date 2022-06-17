@@ -1,2 +1,1 @@
-# git-learning
-git learning on git bash
+# git-learning is intresting
